@@ -6,7 +6,7 @@ import  "./Aboutme.css"
 import { slideInVariants } from "../../utils/animation";
 import { proflist } from "../../data/proflist";
 
- proflist
+ 
 const Aboutme = () => {
   return (
         <section className="about section" id="about">
@@ -55,7 +55,7 @@ const Aboutme = () => {
                             </motion.p>
                         </div>
                         <ul className="professional-list">
-                            {profList.map((item, index)=>(
+                            {proflist.map((item, index)=>(
 
                                <motion.li className="list-item" 
                                key={item.id} 
