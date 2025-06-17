@@ -6,7 +6,7 @@ text: "Years of experience",
 },
 {
 id: 2,
-number: "1K+",
+number: "4K+",
 text: "Happy Customers",
 },
 {
