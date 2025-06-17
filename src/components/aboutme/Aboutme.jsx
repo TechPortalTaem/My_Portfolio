@@ -5,10 +5,6 @@ import  "./Aboutme.css"
  import { FaDownload } from "react-icons/fa";
 import { slideInVariants } from "../../utils/animation";
 import { profList } from "../../data/proflist";
- 
-
- 
-
 
 const Aboutme = () => {
   return (
