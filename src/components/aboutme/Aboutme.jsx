@@ -4,7 +4,9 @@ import { motion } from "motion/react";
 import  "./Aboutme.css"
  import { FaDownload } from "react-icons/fa";
 import { slideInVariants } from "../../utils/animation";
-import { profList } from "../../data/proflist.js";
+import { proflist } from "../../data/proflist";
+
+ proflist
 const Aboutme = () => {
   return (
         <section className="about section" id="about">

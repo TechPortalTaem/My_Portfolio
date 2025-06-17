@@ -10,7 +10,7 @@ function App() {
     <Header/>
        
         <Home/>  
-        {/* <Aboutme/>   */}
+        <Aboutme/>  
         {/* <SkillsInfo/>  */}
         <Services/> 
         <Portfolio/>

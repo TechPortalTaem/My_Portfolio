@@ -1,4 +1,4 @@
-export const profList= [
+export const proflist= [
 {
 id: 1,
 number: "3+",
