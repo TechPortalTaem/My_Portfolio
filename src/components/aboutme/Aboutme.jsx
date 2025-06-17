@@ -2,10 +2,10 @@ import { aboutImg, atomnie_privichki } from "../../assets/images"
 import SectionTitle from "../sectionTitle/SectionTitle";
 import { motion } from "motion/react";
 import  "./Aboutme.css"
- import { FaDownload } from "react-icons/fa";
+import { FaDownload } from "react-icons/fa";
 import { slideInVariants } from "../../utils/animation";
-import { proflist } from "../../data/proflist";
-
+ 
+import { profList } from "../../data/proflist.js";
  
 const Aboutme = () => {
   return (
@@ -55,7 +55,7 @@ const Aboutme = () => {
                             </motion.p>
                         </div>
                         <ul className="professional-list">
-                            {proflist.map((item, index)=>(
+                            {profList.map((item, index)=>(
 
                                <motion.li className="list-item" 
                                key={item.id} 

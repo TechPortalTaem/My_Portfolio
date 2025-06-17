@@ -1,7 +1,5 @@
 import { skills } from "../../data/skills"
 
-
-
 const Skills = () => {
   return (
     <div className="education">
