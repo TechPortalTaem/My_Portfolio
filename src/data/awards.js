@@ -16,5 +16,4 @@ year:"2019",
 title:"Best Freelancer",
 institution:"Fiver & Upwork Level 2 & Top Rated",
 }
-
 ]
