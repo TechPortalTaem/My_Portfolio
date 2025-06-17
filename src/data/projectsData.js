@@ -8,7 +8,7 @@ import { projects1, projects2, projects3  } from "../assets/images";
     "Webentwicklung, das auf HTML, CSS und Bootstrap (Framework)",
     name: "tech-portal" ,
     position: "Online-Shop",
-      url: 'https://tech-portal-github-io.vercel.app'
+      url: 'https://tech-portal-github-io.vercel.app',
   
 },
 {
@@ -18,6 +18,6 @@ import { projects1, projects2, projects3  } from "../assets/images";
     "Java Full Stack Development with Spring Boot + React.",
     name: "Auto Werkstatt",
     position: "Werkstatt",
-    url: 'https://ati-werkstatt.de/'
+    url: 'https://ati-werkstatt.de/',
 }
  ]
