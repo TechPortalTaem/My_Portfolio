@@ -1,4 +1,4 @@
-import { projects1, projects2, projects3  } from "../assets/images";
+import { projects1, projects2  } from "../assets/images";
 
  export const projectsData =[
 {

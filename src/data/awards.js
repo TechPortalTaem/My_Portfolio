@@ -15,6 +15,6 @@ institution:" Online Typodev Soluation Ltd.",
 year:"2019",
 title:"Best Freelancer",
 institution:"Fiver & Upwork Level 2 & Top Rated",
-},
+}
 
 ]

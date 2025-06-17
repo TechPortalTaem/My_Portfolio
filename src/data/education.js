@@ -19,6 +19,6 @@ year:"2016-2018",
 degree:"Graphic Designer",
 institution:"Web Graphy, Los Angeles, CA",
 
-},
+}
 ]
  
