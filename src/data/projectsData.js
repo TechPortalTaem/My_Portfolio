@@ -18,6 +18,6 @@ import { projects1, projects2  } from "../assets/images";
     "Java Full Stack Development with Spring Boot + React.",
     name: "Auto Werkstatt",
     position: "Werkstatt",
-    url: 'https://ati-werkstatt.de/',
+    url: 'https://auto-werkstatt.vercel.app/',
 }
  ]

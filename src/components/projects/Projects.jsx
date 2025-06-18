@@ -27,8 +27,7 @@ const Projects = () => {
               <SwiperSlide key={projects.id}>
                 <div className="swiper-slide swiper-projects-block">
                   <div className="projects-img">
-                     {/* <a href="https://tech-portal-github-io.vercel.app/" target="tech-portal-github-io.vercel.app">
-                     </a> */}
+ 
                     <img src={projects.imgSrc} alt={projects.name} />
                      
                     
