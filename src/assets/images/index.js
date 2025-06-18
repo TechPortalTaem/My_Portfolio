@@ -12,14 +12,12 @@ import aboutImg from "./about-img.webp"
       import portfolio_6 from "./portfolio-6.webp"  
       import Shape from "./Shape.png"   
 
-
-
-     import atomnie_privichki from "./atomnie_privichki.pdf"
+     import lebensLauf from "./LebensLauf.pdf"
       
        
 
 export {
-atomnie_privichki,   
+lebensLauf,   
 mainImg,
 aboutImg,
 projects1,

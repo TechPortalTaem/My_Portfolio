@@ -1,4 +1,4 @@
-import { aboutImg, atomnie_privichki } from "../../assets/images"
+import { aboutImg, lebensLauf } from "../../assets/images"
 import SectionTitle from "../sectionTitle/SectionTitle";
 import { motion } from "framer-motion";
 import  "./Aboutme.css"
@@ -72,7 +72,7 @@ const Aboutme = () => {
 
                             ))}
                         </ul>
-                        <motion.a href={atomnie_privichki} target="atomnie_privichki" className="inner-info-link"
+                        <motion.a href={lebensLauf} target="lebensLauf" className="inner-info-link"
                          custom={1}
                         initial="hidden"
                         whileInView="visible"
