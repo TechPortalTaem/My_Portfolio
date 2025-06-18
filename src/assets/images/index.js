@@ -12,7 +12,7 @@ import aboutImg from "./about-img.webp"
       import portfolio_6 from "./portfolio-6.webp"  
       import Shape from "./Shape.png"   
 
-   import lebensLauf from "./LebensLauf.pdf"
+   import lebensLauf from "./lebenlauf.pdf"
       
        
 
