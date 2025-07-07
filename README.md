@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Giga]
+# 👋   I'm Giga
 
 I'm a **Fullstack Developer** passionate about building scalable web applications using modern technologies.  
 I enjoy turning complex problems into clean, efficient solutions — from backend APIs to intuitive frontends.
