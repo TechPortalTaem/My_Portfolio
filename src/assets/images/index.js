@@ -4,6 +4,7 @@ import aboutImg from "./about-img.webp"
   import projects2 from "./projects2.webp"
    import projects3 from "./projects3.webp"
 
+ import Employee from "./Employee.webp"
  import portfolio_1 from "./portfolio-1.webp"
   import portfolio_2 from "./portfolio-2.webp"
    import portfolio_3 from "./portfolio-3.webp"
@@ -17,6 +18,7 @@ import aboutImg from "./about-img.webp"
        
 
 export {
+Employee,
 lebensLauf,   
 mainImg,
 aboutImg,
