@@ -1,49 +1,51 @@
- 
-import{FaPenRuler ,FaPhotoFilm, FaFileCode,FaAlignLeft} from "react-icons/fa6";
+import{FaJava  , FaUsersGear } from "react-icons/fa6";
+import { GrSystem } from "react-icons/gr";
+import { FaTools } from "react-icons/fa";
+    
 
 export const services =[
 
 
 {
-  icon: FaPenRuler,
-title: "Ui/UX Consultancy",
-subtitle: "What is UX consulting?",
+  icon: FaJava ,
+title: "Java Development",
+subtitle: "What is Java Development ?",
 description:
-"UX consulting helps companies improve their produces overall usability...",
+"The process of building software and applications using the Java programming language.",
 list: [
-"Establish the right UX processes",
-"Create exceptional user experiences",
-"Discover new business",
-"Save resources", ],
+    "Java code writing",
+    "Code testing & debugging",
+    "Application improvement & optimization"
+  ],
 },
 
 {
-icon: FaPhotoFilm,
-title: "Branding & Design",
-subtitle: "What is Brand & Design?",
+icon: GrSystem ,
+title: "System Design",
+subtitle: "What is System Design?",
 description:
-"Brand Design can be defined as one of the crucial marketing practices...",
+"The process of defining the architecture, components, modules, interfaces, and data of a system to meet specific requirements...",
 list: [
-"Logo Design",
-"Banner Design",
-"Visual Identity Packages",
-"Business Cards & Business Systems", ],
+"Software Architecture Design",
+"System Blueprint Creation",
+"omponent & Module Mapping",
+"System Interaction Planning", ],
 },
  
 {
-icon: FaFileCode,
-title: "Web Development",
-subtitle: "What is Web Development?",
-description: "Web development services are used to design, build, support...",
-list: ["Web application development", "Testing", "Maintenance"],
+icon: FaUsersGear,
+title: "Team Collaboration",
+subtitle: "What is Collaboration in Development?",
+description:  "Working with developers, designers, and product managers to build better software....",
+list: ["Team communication", "Cross-functional planning", "Collaborative problem-solving"],
 
 },
 {
-icon: FaAlignLeft,
-title: "Content Writing",
-subtitle: "What is Content Writing?",
-description: "Content writing is the process of planning, writing and editing web " ,
-list:  ["Web content writing", "Blog writing for websites",  "Social media content"],
+icon: FaTools,
+title: "Maintenance & Support",
+subtitle: "What is Maintenance & Support?",
+description: "Ongoing care to ensure stable performance of Java applications by identifying and fixing issues.",
+list:  ["Bug fixing", "Performance monitoring", "System updates"],
 
 }
 
