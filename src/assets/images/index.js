@@ -11,7 +11,7 @@ import aboutImg from "./about-img.webp"
     import portfolio_4 from "./portfolio-4.webp"
      import portfolio_5 from "./portfolio-5.webp"
       import portfolio_6 from "./portfolio-6.webp"  
-      import Shape from "./Shape.png"   
+    
 
    import lebensLauf from "./lebenlauf.pdf"
       
@@ -31,5 +31,4 @@ portfolio_3,
 portfolio_4,
 portfolio_5,
 portfolio_6,
-Shape,
 }
