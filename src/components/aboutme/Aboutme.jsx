@@ -39,7 +39,7 @@ const Aboutme = () => {
                         custom={0}
                         variants={slideInVariants("right",0.7, 70, true)}
                             
-                            > <span>  Front-end </span> &<span>  Back-end </span> Developer <span>in Berlin</span></motion.h4>
+                            > <span>backend</span> Developer <span>in Berlin</span></motion.h4>
                             <motion.p
                         initial="hidden"
                         whileInView="visible"
@@ -88,16 +88,5 @@ const Aboutme = () => {
         </section>
   )
 }
-
-// export default Aboutme
-
-
-// import React from 'react'
-
-// const Aboutme = () => {
-//   return (
-//     <div>Aboutme</div>
-//   )
-// }
 
 export default Aboutme
