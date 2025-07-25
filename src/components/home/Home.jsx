@@ -7,9 +7,9 @@ import { iconVariants,slideInVariants } from "../../utils/animation";
 
 
 const icons = [
-    { id: 1, href: "", icon: <FaFacebook /> },
-    { id: 2, href: "", icon: <FaInstagram /> },
-    { id: 3, href: "", icon: <FaGithub /> },
+    { id: 1, href: "https://facebook.com", icon: <FaFacebook /> },
+    { id: 2, href: "https://instagram.com", icon: <FaInstagram /> },
+    { id: 3, href: "https://github.com/TechPortalTaem", icon: <FaGithub /> },
 
 ];
 
