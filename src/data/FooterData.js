@@ -10,5 +10,5 @@
  export const followLinks = [
 { id: 1, href: "https://facebook.com", icon: FaFacebookF },
 { id: 2, href: "https://instagram.com", icon: FaInstagram },
-{ id: 3, href: "https://github.com", icon: FaGithub },
+{ id: 3, href: "https://github.com/TechPortalTaem", icon: FaGithub },
  ];
