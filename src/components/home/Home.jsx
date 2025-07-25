@@ -50,14 +50,21 @@ const Home = () => {
                         viewport={{ once: false, amount: 0.5 }}
                         custom={1}
                         variants={slideInVariants("left",0.7, 60, true)}
-                    >Full Stack Developer</motion.h2>
+                    >Java Backend Developer</motion.h2>
                     <motion.p
                          initial="hidden"
                         whileInView="visible"
                         viewport={{ once: false, amount: 0.5 }}
                         custom={2}
                         variants={slideInVariants("left",0.6, 60, true)}
-                    >I am a freelance fullstack developer from Berlin specialize in web applications (Java, Spring, SQL Developer, MySQL, React , HTML und CSS, Git )
+                    >
+                     &nbsp; I’m a Java Backend Developer based in Berlin, specializing in web application development. 
+                    My core expertise lies in Java and the Spring Framework,
+                    with strong experience in working with relational databases such as MySQL and PostgreSQL.
+                    I also have frontend knowledge with React, HTML, and CSS, and I’m proficient in version control using Git and GitHub.
+                    Additionally, I use tools like Docker, Swagger (OpenAPI), and CI/CD pipelines to support modern development workflows.
+                    I thrive in Agile environments, collaborating through Kanban boards, Jira, and Microsoft Teams.
+                        
                     </motion.p>
                     <motion.a 
                         href="#contact"
