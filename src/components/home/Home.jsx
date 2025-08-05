@@ -58,12 +58,15 @@ const Home = () => {
                         custom={2}
                         variants={slideInVariants("left",0.6, 60, true)}
                     >
-                     &nbsp; I’m a Java Backend Developer based in Berlin, specializing in web application development. 
-                    My core expertise lies in Java and the Spring Framework,
-                    with strong experience in working with relational databases such as MySQL and PostgreSQL.
-                    I also have frontend knowledge with React, HTML, and CSS, and I’m proficient in version control using Git and GitHub.
-                    Additionally, I use tools like Docker, Swagger (OpenAPI), and CI/CD pipelines to support modern development workflows.
-                    I thrive in Agile environments, collaborating through Kanban boards, Jira, and Microsoft Teams.
+  <p>&nbsp;I’m a Java Backend Developer based in Berlin, specializing in web application development. My core expertise lies in Java and the Spring Framework, including Spring Boot, for building scalable and maintainable backend systems.</p>
+           <br />
+      <p>&nbsp;I have strong experience working with relational databases, including Oracle SQL, MySQL, and PostgreSQL. I’m also familiar with .NET Framework, allowing me to contribute to cross-platform development projects when needed.</p>
+        <br />
+      <p>&nbsp;On the frontend side, I have a working knowledge of HTML5, CSS, and Bootstrap, which helps me collaborate effectively with frontend teams.</p>
+     <br />
+      <p>&nbsp;In my daily workflow, I use tools such as Git, GitHub, Maven, Postman, Docker, and CI/CD pipelines. I'm comfortable working in development environments like Eclipse, IntelliJ IDEA, and Visual Studio, and I utilize Swagger (OpenAPI) for API documentation and testing.</p>
+   <br />
+      <p>&nbsp;I thrive in Agile environments, applying Scrum and Kanban methodologies. I regularly collaborate through JIRA, Microsoft Teams, and contribute to team productivity in both Linux and Windows operating systems.</p>
                         
                     </motion.p>
                     <motion.a 
