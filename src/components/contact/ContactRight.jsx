@@ -16,7 +16,7 @@ const ContactRight = () => {
                         >I'm always open to discussing product 
                             
                             <span>
-                                Front-end & Back-end.
+                                Java Backend Developer.
                             </span>
                         
                         </motion.p>
