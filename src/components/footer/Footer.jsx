@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="container footer-wrapper">
             <div className="about-group">
                 <h2>Giga</h2>
-                <p>Front-end & Back-end Developer</p>
+                <p> Backend Developer</p>
                 <a href="#about">About me</a>
             </div>
             <div className="hr"></div>
