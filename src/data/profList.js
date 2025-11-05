@@ -1,19 +1,19 @@
  export const profList =[
 {
     id:1,
-    number: "3+",
+    number: "5+",
     text:"Years of experience"
     
  },
  {
     id:2,
-    number: "4K+",
+    number: "10+",
     text:"Happy Customers"
     
  },
  {
     id:3,
-    number: "3+",
+    number: "10+",
     text:"Success Projects"
     
  }
