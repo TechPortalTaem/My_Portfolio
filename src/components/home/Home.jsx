@@ -50,7 +50,7 @@ const Home = () => {
                         viewport={{ once: false, amount: 0.5 }}
                         custom={1}
                         variants={slideInVariants("left",0.7, 60, true)}
-                    >Java Backend Developer</motion.h2>
+                    >Web Developer</motion.h2>
                     <motion.p
                          initial="hidden"
                         whileInView="visible"
@@ -58,15 +58,14 @@ const Home = () => {
                         custom={2}
                         variants={slideInVariants("left",0.6, 60, true)}
                     >
-  <p>&nbsp;I’m a Java Backend Developer based in Berlin, specializing in web application development. My core expertise lies in Java and the Spring Framework, including Spring Boot, for building scalable and maintainable backend systems.</p>
-           <br />
-      <p>&nbsp;I have strong experience working with relational databases, including Oracle SQL, MySQL, and PostgreSQL. I’m also familiar with .NET Framework, allowing me to contribute to cross-platform development projects when needed.</p>
-        <br />
-      <p>&nbsp;On the frontend side, I have a working knowledge of HTML5, CSS, and Bootstrap, which helps me collaborate effectively with frontend teams.</p>
-     <br />
-      <p>&nbsp;In my daily workflow, I use tools such as Git, GitHub, Maven, Postman, Docker, and CI/CD pipelines. I'm comfortable working in development environments like Eclipse, IntelliJ IDEA, and Visual Studio, and I utilize Swagger (OpenAPI) for API documentation and testing.</p>
-   <br />
-      <p>&nbsp;I thrive in Agile environments, applying Scrum and Kanban methodologies. I regularly collaborate through JIRA, Microsoft Teams, and contribute to team productivity in both Linux and Windows operating systems.</p>
+                      <p>&nbsp;I’m a Frontend and Java Developer based in Berlin with a strong background in building modern, responsive, and high-performance web applications. My frontend expertise includes JavaScript, React, HTML5, CSS, Bootstrap, and WordPress, allowing me to create dynamic, user-friendly, and visually engaging interfaces that enhance the user experience.</p>
+                        <br />
+                        <p>&nbsp;In addition to frontend development, I have solid experience in Java and the Spring Framework (Spring Boot) for designing and maintaining reliable backend systems. I’m also familiar with the .NET Framework, enabling me to contribute effectively to cross-platform and full-stack projects.</p>
+                        <br />
+                        <p>&nbsp;I have hands-on experience with relational databases such as Oracle SQL, MySQL, and PostgreSQL, as well as modern development tools including Git, GitHub, GitLab, Maven, Docker, and Postman. I work confidently in Visual Studio, Eclipse, IntelliJ IDEA, and Figma environments.</p>
+                        <br />
+                        <p>&nbsp;Thriving in Agile teams, I apply Scrum methodologies and collaborate efficiently through JIRA and Microsoft Teams. Comfortable working on both Linux and Windows, I focus on delivering clean, maintainable code and seamless digital solutions that combine strong functionality with elegant design.</p>
+                        <br />
                         
                     </motion.p>
                     <motion.a 
