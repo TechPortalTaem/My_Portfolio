@@ -7,7 +7,7 @@
  },
  {
     id:2,
-    number: "10+",
+    number: "7+",
     text:"Happy Customers"
     
  },
