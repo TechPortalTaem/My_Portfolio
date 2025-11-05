@@ -49,7 +49,7 @@ const Aboutme = () => {
                             
                             >
                                 I like to make things online.
-                                My passion in web development began in 2021 when
+                                My passion in web development began in 2010 when
                                 I made the decision to learn how to create websites a web applications.  
                                 Today, having completed many personal projects building accessible web aplications a digital experiences for various projects is currently my primary emphasis. 
                             </motion.p>
