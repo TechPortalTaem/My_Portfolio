@@ -39,7 +39,7 @@ const Aboutme = () => {
                         custom={0}
                         variants={slideInVariants("right",0.7, 70, true)}
                             
-                            > <span>backend</span> Developer <span>in Berlin</span></motion.h4>
+                            > <span>Web</span> Developer <span>in Berlin</span></motion.h4>
                             <motion.p
                         initial="hidden"
                         whileInView="visible"
