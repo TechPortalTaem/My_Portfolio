@@ -13,50 +13,50 @@ import {
 export const portfolioData = [
   {
     id: 1,
-    title: "Employee Management System (Java + MySQL)",
-    category: "Backend Development",
+    title: "Modern Web Interface mit React",
+    category: "Frontend Development",
     imgSrc: portfolio_1,
     description:
-      "Developed a RESTful API with Spring Boot to manage employee data. Integrated MySQL for persistence and documented endpoints using Swagger.",
+      "Entwicklung moderner und performanter Benutzeroberflächen mit React, JavaScript, HTML5 und CSS3. Umsetzung eines klaren, responsiven Designs mit Fokus auf Benutzerfreundlichkeit und Performance.",
   },
   {
     id: 2,
-    title: "Task Tracker (Java + React)",
-    category: "Full Stack",
+    title: "WordPress Website Design & Umsetzung",
+    category: "Web Design & CMS",
     imgSrc: portfolio_2,
     description:
-      "Built a full-stack application using Spring Boot and React to create, edit, and assign tasks. Included token-based auth and responsive UI.",
+      "Erstellung und Anpassung dynamischer Websites mit WordPress, HTML und CSS. Integration von individuellen Themes, Plugins und SEO-Optimierung für bessere Sichtbarkeit und Nutzererfahrung.",
   },
   {
     id: 3,
-    title: "Dockerized Microservice with PostgreSQL",
-    category: "Microservices",
+    title: "Frontend Dashboard für Projektverwaltung",
+    category: "Frontend UI",
     imgSrc: portfolio_3,
     description:
-      "Created a Spring Boot microservice containerized with Docker. Used PostgreSQL as a database and connected via Docker Compose.",
+      "Entwicklung eines interaktiven Dashboards zur Aufgaben- und Projektverwaltung. Umsetzung mit React, JavaScript und Bootstrap. Fokus auf klare Struktur, einfache Navigation und Echtzeit-Aktualisierung.",
   },
   {
     id: 4,
-    title: "API Documentation & Testing with Swagger",
-    category: "API Development",
+    title: "Full-Stack Anwendung mit Spring Boot & React",
+    category: "Full Stack Development",
     imgSrc: portfolio_4,
     description:
-      "Designed and documented multiple REST endpoints using Swagger UI and OpenAPI for fast testing and team integration.",
+      "Entwicklung einer kompletten Webanwendung mit Spring Boot im Backend und React im Frontend. REST-API-Integration, Benutzerverwaltung und Datenpersistenz mit MySQL und PostgreSQL.",
   },
   {
     id: 5,
-    title: "Linux-Based DevOps Workflow",
-    category: "DevOps",
+    title: "Java-basierte Softwarelösung mit Spring Boot",
+    category: "Softwareentwicklung",
     imgSrc: portfolio_5,
     description:
-      "Set up a Git-based CI/CD flow for Java projects using bash scripts and Docker on Ubuntu. Automated builds and tested deployments.",
+      "Implementierung einer Java-Anwendung zur Datenverwaltung. Nutzung von Spring Boot zur API-Erstellung, Anbindung an relationale Datenbanken (MySQL, Oracle SQL) und Dokumentation mit Swagger.",
   },
   {
     id: 6,
-    title: "Agile Project Dashboard",
-    category: "Frontend UI",
+    title: "Docker-basierte Entwicklungsumgebung",
+    category: "Backend & Infrastruktur",
     imgSrc: portfolio_6,
     description:
-      "React dashboard for agile teams with sprint board, status filtering, and burndown charts. Connected to Spring Boot backend.",
+      "Einrichtung einer containerisierten Entwicklungsumgebung mit Docker und Git. Vereinfachung von Setup, Testing und Deploymentprozessen für Java- und React-Projekte.",
   },
 ];
