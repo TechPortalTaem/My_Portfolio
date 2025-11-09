@@ -22,7 +22,7 @@ const ServiceItem = ({services}) =>{
                         initial="hidden"
                         whileInView="visible"
                         viewport={{ once: false, amount: 0.2}}
-                        variants={slideInVariants("top",0.5, 50, true)}
+                        variants={slideInVariants("top",0.5, 20, true)}
             >
                 <div className="service-card">
                     <item.icon className="services-icon"/>
