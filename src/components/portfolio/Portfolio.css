@@ -39,7 +39,7 @@
     bottom: 0;
     left: 0;
     margin: 20px;
-    color: #f34d00;
+    /* color: #f34d00; */
     opacity: 0;
     transform: translateY(-20px);
     transition: .5s linear;
