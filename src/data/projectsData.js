@@ -5,10 +5,10 @@ import { projects1, projects2, Employee } from "../assets/images";
     id: 1,
     imgSrc: projects1,
     description:
-    "Webentwicklung, das auf HTML, CSS und Bootstrap (Framework)",
-    name: "tech-portal" ,
+    "Webentwicklung, das auf HTML, CSS und JavaScript",
+    name: "simple-shopping-cart" ,
     position: "Online-Shop",
-      url: 'https://tech-portal-github-io.vercel.app',
+      url: 'https://simple-shopping-cart-upak.vercel.app/',
   
 },
 {
